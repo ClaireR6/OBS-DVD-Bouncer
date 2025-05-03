@@ -1,0 +1,38 @@
+{
+  "bounded_playing": {
+    "scene_name": "Playing",
+    "source_name": "DVDLogo",
+    "top": 58,
+    "left": 415,
+    "screen_width": 1441,
+    "screen_height": 792,
+    "logo_width": 250,
+    "logo_height": 117,
+    "fps_time": 0.001,
+    "pixels_per_second_mod": 0.3
+  },
+  "playing": {
+    "scene_name": "Playing",
+    "source_name": "DVDLogo",
+    "top": 0,
+    "left": 0,
+    "screen_width": 1920,
+    "screen_height": 1080,
+    "logo_width": 250,
+    "logo_height": 117,
+    "fps_time": 0.0001,
+    "pixels_per_second_mod": 1
+  },
+  "wideview_bounded": {
+    "scene_name": "Wide View",
+    "source_name": "DVDLogo 2",
+    "top": 200,
+    "left": 576,
+    "screen_width": 1014,
+    "screen_height": 571,
+    "logo_width": 160,
+    "logo_height": 90,
+    "fps_time": 0.001,
+    "pixels_per_second_mod": 0.3
+  }
+}
